@@ -10,8 +10,7 @@ paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 # Comment the themesDir option if you use this theme in production
-themesDir = "../.."
-
+# themesDir = "../.."
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
@@ -19,8 +18,8 @@ themesDir = "../.."
 
 [params]
     # Tell me who you are
-    author = "John Doe"
-    bio = "Blogger - Programmer - Gopher"
+    author = "David Async"
+    bio = "Software Developer"
     location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
@@ -64,14 +63,14 @@ themesDir = "../.."
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    follow_button = "https://github.com/davidasync"
 
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "digitalcraftsman"
+    github          = "davidasync"
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""
@@ -98,7 +97,7 @@ themesDir = "../.."
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "spf13"
+    twitter         = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
